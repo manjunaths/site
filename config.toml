@@ -1,0 +1,4 @@
+baseURL = "http://manjunaths.co.in/"
+languageCode = "en-us"
+title = "Manju's journal"
+theme = "beautifulhugo"

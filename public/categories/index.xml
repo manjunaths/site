@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Manju&#39;s journal</title>
+    <link>http://manjunaths.co.in/categories/</link>
+    <description>Recent content in Categories on Manju&#39;s journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jan 2021 09:10:58 +0100</lastBuildDate><atom:link href="http://manjunaths.co.in/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General</title>
+      <link>http://manjunaths.co.in/categories/general/</link>
+      <pubDate>Mon, 25 Jan 2021 09:10:58 +0100</pubDate>
+      
+      <guid>http://manjunaths.co.in/categories/general/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

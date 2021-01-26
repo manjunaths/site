@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Manju&#39;s journal</title>
-    <link>http://manjunaths.co.in/posts/</link>
+    <link>https://manjunaths.co.in/posts/</link>
     <description>Recent content in Posts on Manju&#39;s journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jan 2021 09:10:58 +0100</lastBuildDate><atom:link href="http://manjunaths.co.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 09:10:58 +0100</lastBuildDate><atom:link href="https://manjunaths.co.in/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>http://manjunaths.co.in/posts/first-post/</link>
+      <link>https://manjunaths.co.in/posts/first-post/</link>
       <pubDate>Mon, 25 Jan 2021 09:10:58 +0100</pubDate>
       
-      <guid>http://manjunaths.co.in/posts/first-post/</guid>
+      <guid>https://manjunaths.co.in/posts/first-post/</guid>
       <description>Hello! This is Manju, I&amp;rsquo;m currently an expert technologist @ Hewlett-Packard Enterprise (HPE) working on Deep Learning/Artificial Intelligence. Earlier, I worked on High-Performance Computing (HPC) and also scalable real-time visualization. My current interests are centered around pipeline optimization of large workloads, bayesian models such as Gaussian Processes (GP) and uncertainty quantification. I particularly like gpytorch for making GP models. To get in touch with me send me an e-mail at my gmail.</description>
     </item>
     
